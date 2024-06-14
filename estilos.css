@@ -1,0 +1,20 @@
+.card{
+  width: 350px;
+  background: #000;
+  margin: 0 auto;
+  text-emphasis: none;
+}
+img{
+  width: 100%;
+}
+h1, p{
+  color: #fff;
+}
+a{
+  background: red;
+  padding: 10px;
+  text-decoration: none;
+  color: #fff;
+  border-radius: 5px;
+  text-align: center;
+}
